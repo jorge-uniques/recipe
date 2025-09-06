@@ -1,3 +1,4 @@
+Let's begin!
 Ingredients
 Original recipe (1X) yields 6 servings
 1 cup warm water
@@ -6,3 +7,5 @@ Original recipe (1X) yields 6 servings
 1 tablespoon butter
 1/2 teaspoon salt, or to taste
 cooking spray
+
+Enjoy my recipe!
