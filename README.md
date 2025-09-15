@@ -1,8 +1,16 @@
-### This is a LOCAL change :)
 # recipe
-Colombian Arepas line 2 changed remotely
+
+# Introduction
+### Colombian Arepas
+
+### Colombian Arepas line 2 changed remotely
 ----------------
+### Image of Colombian Arepas
+![Colombian Arepas!](recipe.png "Colombian Arepas")
 
 Source: https://www.allrecipes.com/recipe/262048/colombian-arepas/
-last line changed locally
-### This is a REMOTE change :O
+
+1. *Preheat* a skillet on **medium heat**.
+2. Mix **cornmeal**, salt, and water.
+3. Form into *patties*.
+4. Cook on both sides until **golden**.
