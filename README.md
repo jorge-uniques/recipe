@@ -5,6 +5,8 @@
 
 ### Colombian Arepas line 2 changed remotely
 ----------------
+### Image of Colombian Arepas
+![Colombian Arepas!](recipe.png "Colombian Arepas")
 
 Source: https://www.allrecipes.com/recipe/262048/colombian-arepas/
 
